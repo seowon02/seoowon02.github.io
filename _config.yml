@@ -23,7 +23,7 @@ name                     : "seowon Jung"
 description              : "발전하고 있는 사이트"
 url                      : "https://seowon02.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "seowon02/seoowon02.github.io" # GitHub username/repo-name e.g. 
+repository               : "seowon02/seowon02.github.io" # GitHub username/repo-name e.g. 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

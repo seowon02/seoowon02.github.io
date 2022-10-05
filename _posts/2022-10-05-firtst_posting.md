@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "첫번째 블로그"
+tags:
+  - 블로그
 ---
 
 # 블로그를 시작하며...

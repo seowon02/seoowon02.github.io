@@ -1,4 +1,4 @@
-Title: "회귀분석 알고리즘에 대해"
+title: "회귀분석 알고리즘에 대해"
 Tags:
   - regression
   - 회귀분석
